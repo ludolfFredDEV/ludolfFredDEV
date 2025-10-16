@@ -36,14 +36,4 @@ Sou um(a) Desenvolvedor Front-End apaixonado(a) por Tecnologia e dedicado(a) a c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludolfFredDEV&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
 </p>
 
----
-
-## 📞 Conecte-se Comigo!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](LINK_DO_SEU_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@EXEMPLO.COM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](LINK_DO_SEU_PORTFOLIO)
-
----
 > "O código conta uma história. Certifique-se de que a sua seja uma boa."
